@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-Alco-Symphony/",
+    "build": "vite build --base=/js_89_Maksym-Shcherbak/",
     "preview": "vite preview"
   },
   "devDependencies": {
